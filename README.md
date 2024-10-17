@@ -1,1 +1,1 @@
-# rd-neovim-config
+### My configuration of neovim with NvChad as base
